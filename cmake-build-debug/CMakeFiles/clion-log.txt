@@ -1,0 +1,30 @@
+"E:\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\data\c-code\SFML
+-- The C compiler identification is GNU 7.3.0
+-- The CXX compiler identification is GNU 7.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: E:/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/MinGW/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of void*
+-- Check size of void* - done
+-- Found OpenGL: opengl32   
+-- Looking for dinput.h
+-- Looking for dinput.h - found
+-- Found OpenAL: E:/data/c-code/SFML/extlibs/libs-mingw/x64/libopenal32.a  
+-- Found VORBIS: E:/data/c-code/SFML/extlibs/libs-mingw/x64/libvorbisenc.a;E:/data/c-code/SFML/extlibs/libs-mingw/x64/libvorbisfile.a;E:/data/c-code/SFML/extlibs/libs-mingw/x64/libvorbis.a;E:/data/c-code/SFML/extlibs/libs-mingw/x64/libogg.a  
+-- Found FLAC: E:/data/c-code/SFML/extlibs/libs-mingw/x64/libFLAC.a  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/data/c-code/SFML/cmake-build-debug
